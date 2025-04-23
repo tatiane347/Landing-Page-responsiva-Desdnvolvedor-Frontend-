@@ -19,7 +19,7 @@ construir landing pages completas e funcionais utilizando as tecnologias essenci
 📂 Repositório no GitHub: 
 
 Confira o código-fonte completo neste repositório:
-🔗 https://github.com/tatiane347/Rel-gio-Digital- 
+🔗 https://github.com/tatiane347/Landing-Page-responsiva-Desdnvolvedor-Frontend-
 
 💼 Meu LinkedIn 
 
