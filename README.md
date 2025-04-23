@@ -27,3 +27,4 @@ Saiba mais sobre mim e acompanhe meus projetos:
 👩‍💻 https://www.linkedin.com/in/tatiane-nascimento-68b0622bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 
+![17454133322495209794488276723864](https://github.com/user-attachments/assets/f02f91d8-4cb1-47da-97ce-1beb519d83dc)
