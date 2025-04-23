@@ -13,7 +13,7 @@ O HTML foi estruturado semanticamente para garantir a acessibilidade e o SEO, or
 * HTML5 (Estrutura Semântica)
 * CSS3 (Estilização, Layout Responsivo, Animações)
 * JavaScript (Interatividade, Manipulação do DOM)
-🔗 [Opcional: https://codepen.io/tatiane-nascimento/full/ZYYzwoL]
+🔗 [Opcional: https://codepen.io/tatiane-nascimento
 Este projeto demonstra minha capacidade de
 construir landing pages completas e funcionais utilizando as tecnologias essenciais do desenvolvimento frontend, com um forte foco na responsividade, experiência do usuário e performance.
 📂 Repositório no GitHub: 
